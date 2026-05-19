@@ -32,10 +32,9 @@ A visually stunning, fully responsive 3D rotating image gallery built entirely w
 ```bash
 git clone https://github.com/PERVEZ-ALAM1234567/3D-Rotating-Image-Gallery.git
 
-```
-Feel free to contribute, suggest new features, or report any issues by creating an issue or a pull request.
----
 
+** Feel free to contribute, suggest new features, or report any issues by creating an issue or a pull request.
+***
 ## 👑 Author 
 
 ## 🧑‍💻Name - **PERVEZ ALAM**  
