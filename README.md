@@ -4,7 +4,7 @@ A visually stunning, fully responsive 3D rotating image gallery built entirely w
 
 ## Picture Of 3D Rotating Image Gallery & Carousel Animation
 
-![3D Rotating Image Gallery & Carousel Animation](3D ROTATING IMAGE GALLERY , 3D CAROUSEL ANIMATION.png)
+![3D Rotating Image Gallery & Carousel Animation](Screenshoot.png)
 
 ---
 
@@ -30,13 +30,17 @@ A visually stunning, fully responsive 3D rotating image gallery built entirely w
 ```
 **1. Clone the repository:**
 ```bash
+
 git clone https://github.com/PERVEZ-ALAM1234567/3D-Rotating-Image-Gallery.git
+```
 
-
-** Feel free to contribute, suggest new features, or report any issues by creating an issue or a pull request.
 ***
-## 👑 Author 
 
+Feel free to contribute, suggest new features, or report any issues by creating an issue or a pull request.
+
+***
+
+## 👑 Author 
 ## 🧑‍💻Name - **PERVEZ ALAM**  
 📂 GitHub - [https://github.com/PERVEZ-ALAM1234567](https://github.com/PERVEZ-ALAM1234567)  
 ✉️ E-mail - pervezalam1234567@gmail.com  
