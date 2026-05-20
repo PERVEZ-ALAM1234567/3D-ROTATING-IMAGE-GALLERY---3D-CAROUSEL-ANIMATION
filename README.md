@@ -1,6 +1,6 @@
 # 🌌 3D Rotating Image Gallery & Carousel Animation
 
-A visually stunning, fully responsive 3D rotating image gallery built entirely with **Pure HTML and CSS** (No JavaScript required). This project demonstrates advanced CSS 3D transforms, perspective, and keyframe animations to create a continuous, smooth rotating carousel with an elegant floor reflection effect.
+A visually stunning and high-performance 3D image gallery designed to eliminate JavaScript overhead, this project showcases deep expertise in 3D transforms, spatial geometry, and GPU-accelerated animations to deliver a seamless, lightweight user experience
 
 ## Picture Of 3D Rotating Image Gallery & Carousel Animation
 
